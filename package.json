@@ -19,10 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/binhnd-socicom/react-native-blockies.git"
+    "url": "git+https://github.com/ShenaniganDApp/react-native-blockies"
   },
   "bugs": {
     "url": "https://github.com/binhnd-socicom/react-native-blockies/issues"
   },
-  "homepage": "https://github.com/binhnd-socicom/react-native-blockies#readme"
+  "homepage": "https://github.com/binhnd-socicom/react-native-blockies#readme",
+  "dependencies": {
+    "react-native-webview": "^10.9.3"
+  }
 }
