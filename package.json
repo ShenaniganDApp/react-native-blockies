@@ -1,6 +1,6 @@
 {
   "name": "react-native-blockies",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Blocky component for React Native",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/binhnd-socicom/react-native-blockies#readme",
   "dependencies": {
-    "react-native-webview": "^10.9.3"
+    "react-native-webview": "^10.9.2"
   }
 }
